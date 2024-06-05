@@ -11,3 +11,8 @@
 - run `./deploy.sh` it will build docker image and eventually run it
 - notes: it may take some time to download all the docker image dependencies
 - code should now run at port 5001
+
+## Docker Installation
+- Windows: https://docs.docker.com/desktop/install/windows-install/
+- Mac: https://docs.docker.com/desktop/install/mac-install/
+- Linux: https://docs.docker.com/desktop/install/linux-install/
